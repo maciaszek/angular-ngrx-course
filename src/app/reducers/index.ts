@@ -12,6 +12,7 @@ import {storeFreeze} from 'ngrx-store-freeze';
 import {routerReducer} from '@ngrx/router-store';
 
 
+// tslint:disable-next-line:no-empty-interface
 export interface AppState {
 
 }
